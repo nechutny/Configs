@@ -1,0 +1,23 @@
+
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+ 
+#urlbar-container
+{
+min-width: 365px !important;
+max-width: 365px !important;
+}
+#urlbar
+{
+min-width: 300px !important;
+max-width: 300px !important;
+}
+#PlacesToolbarItems
+{
+min-width: 50px !important;
+max-width: 50px !important
+}
+hbox.customization-target, #nav-bar
+{
+    display: none !important;
+}

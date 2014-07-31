@@ -1,0 +1,7 @@
+filebrowser
+geanyLaTeX
+geanyvc
+addons
+codenav
+debugger
+geanyprj
